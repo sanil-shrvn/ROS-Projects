@@ -2,7 +2,7 @@
 
 echo "Checking your solution ..."
 
-roslaunch hand_analysis project1.launch &
+roslaunch hand_analysis hand_analysis.launch &
 
 sleep 5
 
